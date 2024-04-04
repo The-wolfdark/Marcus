@@ -8,7 +8,7 @@ https://chrome.google.com/webstore/detail/ollama-ui/cmgdpmlhgjhoadnonobjeekmfceh
 ## Usage
 
 ```
-git clone https://github.com/ollama-ui/ollama-ui
+git clone https://github.com/The-wolfdark/Marcus
 cd ollama-ui
 make
 
